@@ -1,4 +1,4 @@
-CalculadoraPolimorficaJava
-==========================
+Calculadora Polimórfica
+=======================
 
-ResoluÃ§Ã£o do exercÃ­cio Calculadora PolimÃ³rfica que se encontra em http://www.ramon.pro.br/exercicio-de-programacao-calculadora-polimorfica/
+Resolução do exercício Calculadora Polimórfica que se encontra em http://www.ramon.pro.br/exercicio-de-programacao-calculadora-polimorfica/
